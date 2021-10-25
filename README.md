@@ -1,4 +1,4 @@
 # no-longer-thread
 Unroll 2.0
 
-Prend un thread sur twitter et unroll le tout (traductions dispos)
+[] Display le contenu d'un thread twitter de maniere lisible et sans loading
